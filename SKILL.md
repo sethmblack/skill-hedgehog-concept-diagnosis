@@ -3,7 +3,7 @@ name: hedgehog-concept-diagnosis
 description: Guide organizations to identify their Hedgehog Concept through systematic three-circles analysis, finding the intersection of what they can be best at, what drives their economic engine, and what t...
 license: MIT
 metadata:
-  version: 1.0.4152
+  version: 1.0.4153
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
